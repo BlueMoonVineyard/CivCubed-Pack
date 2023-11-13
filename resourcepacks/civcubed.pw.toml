@@ -1,0 +1,8 @@
+name = "CivCubed Resource Pack"
+filename = "CivCubedResourcePack.zip"
+side = "client"
+
+[download]
+url = "https://img.blackquill.cc/CivCubedResourcePack.zip"
+hash-format = "sha1"
+hash = "d5e30f9b0a12afde1c9b724cc09ecef54043ac11"
