@@ -340,6 +340,20 @@ hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.20.1-0.15.3.jar"
+hash = "e1dc0bf57292f1ca808e79d65f59c1253d56191949a071dbe102eddbd6857039"
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "3aa4802505046aeeb8f9a2f13a7750cc0263cea111ab488fb28a9d71a3e47984"
+metafile = true
+
+[[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "09963424617359ab3c2196a496ef5a7ebe976371598bfd849c8c063509c7a3a3"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -348,6 +362,10 @@ metafile = true
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-1.20.1-0.16.3.jar"
+hash = "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589"
 
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
