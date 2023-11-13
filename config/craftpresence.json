@@ -167,13 +167,12 @@
 			"buttons": {
 				"default": {
 					"label": "CivCubed",
-					"url": "https://discord.gg/bjp8KTJgks"
+					"url": "https://civcubed.net/"
 				}
 			}
 		},
 		"dynamicIcons": {
-			"default": "https://via.placeholder.com/256.png",
-			"ferret_irl": "https://mc-heads.net/avatar/1d116f3219464471a49bdd393f694038"
+			"default": "https://via.placeholder.com/256.png"
 		},
 		"dynamicVariables": {
 			"default": "Example Text",
