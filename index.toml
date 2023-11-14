@@ -190,6 +190,10 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/combatradar-1.20.1-1.7.jar"
+hash = "40157d26138049d09066d68ee18025a86a07759bf22639009585f0d68a739cb4"
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
