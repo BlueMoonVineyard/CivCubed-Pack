@@ -2,7 +2,7 @@ ignoreUpdate:0
 updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
-caveMapsAllowed:true
+caveMapsAllowed:false
 debug:false
 lighting:true
 colours:0

@@ -92,7 +92,7 @@ partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
 hideMinimapUnderF3:true
-manualCaveModeStartAuto:true
+manualCaveModeStartAuto:false
 manualCaveModeStart:-1
 chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
