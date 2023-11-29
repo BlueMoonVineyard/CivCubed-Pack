@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "radarOpacity": 0.5,
+  "radarColor": -8355712,
+  "radarSize": 0.4,
+  "radarDistance": 128,
+  "radarX": 0.0,
+  "radarY": 0.0,
+  "iconScale": 0.8869566,
+  "fontScale": 1.4,
+  "speedometerEnabled": false,
+  "neutralPlayerColor": -1,
+  "allyPlayerColor": -16711936,
+  "enemyPlayerColor": -256,
+  "neutralPlayerPing": true,
+  "allyPlayerPing": true,
+  "enemyPlayerPing": true,
+  "neutralSoundEventName": "pling",
+  "allySoundEventName": "pling",
+  "enemySoundEventName": "pling",
+  "logPlayerStatus": true,
+  "showYLevel": false,
+  "disabledEntities": [],
+  "disabledGroups": [],
+  "allyPlayers": [],
+  "enemyPlayers": [],
+  "playersExcludedFromLog": [
+    "~BTLP SLOT"
+  ]
+}
