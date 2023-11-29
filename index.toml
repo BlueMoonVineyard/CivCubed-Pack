@@ -110,7 +110,7 @@ hash = "a85a9e59ce458caa7753c55da90a09ceddf16333f510a0240d155f6a79654c2f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "cf592fa9a69df125f8e1452e127172c1fa29cc953f33c42462264f87ac23f4a6"
+hash = "8c401d823792651474b4c8bec0087a313375c647c9b78357c7ba780a392b5d2f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -122,7 +122,7 @@ hash = "4dccf726c42301a4afe737e763bc0148fe23fcc02b9bf35eed7543f7cbdcfc43"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "51a371419c493ad2b57c1de27258b879cd4655d1e1db54b9087b42540b1b348d"
+hash = "c8655c2968436ccb6d6634632df43bd13cdbc78d7548aeaa69e41f1d364efc4c"
 
 [[files]]
 file = "config/yosbr/options.txt"
