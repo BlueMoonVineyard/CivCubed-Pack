@@ -17,6 +17,10 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/yosbr/combatradar/config.json"
+hash = "d0830b89c207ffe15ad016c14dd196c4ff1fc4ea1685d50233848527a14c3237"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "d16ef4b4dd9d1cfee220332e0246840ca3893a7c0cde99a299f717b63bd8dc2a"
 
@@ -102,11 +106,11 @@ hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap-common.txt"
-hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+hash = "a85a9e59ce458caa7753c55da90a09ceddf16333f510a0240d155f6a79654c2f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "0af0e38b676ac5b9e164e93842661d6b1a41487f687455bcf0ce6db1958d088e"
+hash = "cf592fa9a69df125f8e1452e127172c1fa29cc953f33c42462264f87ac23f4a6"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -114,20 +118,15 @@ hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap-common.txt"
-hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
+hash = "4dccf726c42301a4afe737e763bc0148fe23fcc02b9bf35eed7543f7cbdcfc43"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "0b8fc44d3e504c21883957b70b8ca9f68ef1b8d17abafd192c477cd3c7674efd"
+hash = "51a371419c493ad2b57c1de27258b879cd4655d1e1db54b9087b42540b1b348d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d4b4875af2bd8c7bbe152692fa3a142a812ed40dda2aefcdfcfc3d7a5338cd22"
-
-[[files]]
-file = "mods/amecs.pw.toml"
-hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
-metafile = true
+hash = "f7204f2d3b527679d6e6c68042db56b88fec1a3275f03464d67afe4d06a3df95"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -143,6 +142,10 @@ metafile = true
 file = "mods/badpackets.pw.toml"
 hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
+
+[[files]]
+file = "mods/ballmod-1.0.0+1.20.1.jar"
+hash = "368b051213fb3495a0308190c7f796a71eeb85061dac3dc1d2b1b0e287998d17"
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
@@ -188,10 +191,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
-
-[[files]]
-file = "mods/combatradar-1.20.1-1.7.jar"
-hash = "40157d26138049d09066d68ee18025a86a07759bf22639009585f0d68a739cb4"
 
 [[files]]
 file = "mods/continuity.pw.toml"
