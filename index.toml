@@ -144,10 +144,6 @@ hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
-file = "mods/ballmod-1.0.0+1.20.1.jar"
-hash = "368b051213fb3495a0308190c7f796a71eeb85061dac3dc1d2b1b0e287998d17"
-
-[[files]]
 file = "mods/betterhurtcam.pw.toml"
 hash = "19e658b1f7c5c1441069b2c5efead6f8a5b0328cf6bb68bd0aee8b041a77c075"
 metafile = true
