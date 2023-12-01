@@ -18,7 +18,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/yosbr/combatradar/config.json"
-hash = "d0830b89c207ffe15ad016c14dd196c4ff1fc4ea1685d50233848527a14c3237"
+hash = "c4d74e770474743c4ba7315b7130c33bb1693ad52d01c76365a3d40280323b31"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -99,6 +99,10 @@ hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "config/yosbr/config/voxelmap.properties"
+hash = "896179ca673f53b3705cbe8dbe24f1ae5250d7efec35214b0dc9428c07b2b583"
 
 [[files]]
 file = "config/yosbr/config/world-host.json5"
