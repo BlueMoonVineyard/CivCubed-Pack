@@ -1,4 +1,0 @@
-allowCaveModeOnServer:false
-allowNetherCaveModeOnServer:false
-allowRadarOnServer:true
-registerStatusEffects:true
