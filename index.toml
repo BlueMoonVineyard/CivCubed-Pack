@@ -471,6 +471,11 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
+file = "mods/voxelmap-updated.pw.toml"
+hash = "75dc5008901144460bb14704dc94b714f596984c21fba53efec02f8233172112"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9f8a007f79fc9d88ea537a9c3c2db347cc88a3adb84d39d17f12a5921e0291bf"
 metafile = true
