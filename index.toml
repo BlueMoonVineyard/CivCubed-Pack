@@ -456,11 +456,6 @@ hash = "e5872cc60c44ec15f089987419b646d50d4f3e8ed00bb470f58a2ee17f4395db"
 metafile = true
 
 [[files]]
-file = "mods/ukus-armor-hud.pw.toml"
-hash = "4a807bf22e6095d7732c4e619201a372bbe132f9b1ed478e409ff9777e6f6ffd"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
