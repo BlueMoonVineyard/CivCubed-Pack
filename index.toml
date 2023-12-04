@@ -10,7 +10,7 @@ hash = "c43dfae9e13f4df09b7e69c61a6ed6e9bb9d6ac7510e502688d640bda9e86fd7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2d410626075c0e2ffbb4f80366c1e5fa32c9e1f0c37f27de8efa881147bdd531"
+hash = "01152023b01ccc5c432952d70d58381b8ec07970a7c29fec4fc2273fa8f89369"
 
 [[files]]
 file = "config/puzzle.json"
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "f1f74f07924a5b0eb57e7c662c2e3f8c56d50eaee0dc2cb4cb40985af8eb9cf4"
+hash = "c12290a35bca2b333b73df722314f82638e7c7b85204e673ca4c840d30ed060b"
 metafile = true
 
 [[files]]
