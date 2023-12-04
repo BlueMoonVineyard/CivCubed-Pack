@@ -293,6 +293,11 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/jsmacros.pw.toml"
+hash = "c8d7adabbeebcdc306cfc08edff89a6e7df980ab65a98a24eecd84a36352bb09"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
