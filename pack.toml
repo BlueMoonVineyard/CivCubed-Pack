@@ -1,12 +1,12 @@
 name = "CivCubed Pack"
 author = "mazziechai"
-version = "0.3.1"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "90783dff441752eb4a1f29a48cae81a39033fa1e35ed96dfc52c0942737ffedd"
+hash = "1b13512d8db46f65e28570d51674c1c93ba9eb4bcfdcf8dfe05e184b2275ebf2"
 
 [versions]
 minecraft = "1.20.1"
